@@ -1,0 +1,6 @@
+# Project exclude paths
+/jcl_demo/target/
+/jul_demo/target/
+/log4j2_demo/target/
+/log4j_demo/target/
+/logback_demo/target/
